@@ -12,5 +12,5 @@
   
   
   hse.ru <>
-  [HSE](https://www.hse.ru/)
+  [HSE](https://www.hse.ru/ "мой университет")
   
